@@ -850,6 +850,7 @@ footer p:nth-child(2) {
         display: block;
         align-items: center;
         margin-top: -15px;
+        display:none;
 
 
 
