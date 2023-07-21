@@ -602,6 +602,7 @@ footer p:nth-child(2) {
         align-items: center;
         margin-top: -15px;
         text-align: center;
+        
 
 
 
@@ -843,7 +844,7 @@ footer p:nth-child(2) {
 
     .Contact-Me {
         width: 100%;
-        height: 100px;
+        height: 100%;
         background: #191919;
         display: block;
         align-items: center;
